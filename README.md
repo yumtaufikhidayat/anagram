@@ -1,2 +1,2 @@
 # anagrams
-Simple Java anagram program
+According to Wikipedia, an anagram is a word or phrase formed by rearranging the letters of a different word or phrase. We can generalize this in string processing by saying that an anagram of a string is another string with exactly the same quantity of each character in it, in any order. Going to look at detecting whole string anagrams where the quantity of each character must be equal, including non-alpha characters such as spaces and digits. For example, “!low-salt!” and “owls-lat!!” would be considered anagrams as they contain exactly the same characters.
